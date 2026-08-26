@@ -1,5 +1,7 @@
 # 融合视觉 DNA · Handdrawn Shell + 墨仔
 
+> 版本 1.0.0 · 2026-08-27
+
 This is the merged style lock for the fused skill. Use it verbatim in every page prompt.
 
 ## Positioning
