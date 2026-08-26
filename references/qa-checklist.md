@@ -1,5 +1,7 @@
 # QA Checklist · Fused Skill
 
+> 版本 1.0.0 · 2026-08-27
+
 Run before delivery. Mark each item.
 
 ## Deck shell consistency
@@ -19,7 +21,7 @@ Run before delivery. Mark each item.
 - [ ] 墨仔 is **not** present as a corner decoration on busy pages (it's the actor).
 - [ ] At most **one** 墨仔 per page.
 - [ ] 墨仔 scale is 12–22% page height when active, ≤10% on takeaway/signature pages.
-- [ ] 墨仔 body is soft matte ink-black with faint paper grain (not a hard silhouette).
+- [ ] 墨仔 body is soft matte deep ink-blue (#23386B, never pure black) with faint paper grain (not a hard silhouette).
 - [ ] 墨仔's sage-green sprout is visible in every appearance.
 - [ ] 墨仔's white-dot eyes and deadpan face are present.
 - [ ] 墨仔's tiny warm red-orange core dot is present.
