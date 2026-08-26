@@ -1,5 +1,7 @@
 # 墨仔 (Mozai) · 角色规范
 
+> 版本 1.0.0 · 2026-08-27
+
 Paste this spec block verbatim into every page prompt that includes 墨仔.
 
 ## Identity
