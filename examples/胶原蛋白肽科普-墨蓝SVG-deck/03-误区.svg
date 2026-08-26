@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <filter id="paperGrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.05"/></feComponentTransfer>
+      <feComposite operator="over" in2="SourceGraphic"/>
+    </filter>
+    <radialGradient id="inkHalo" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#23386B" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#23386B" stop-opacity="0"/>
+    </radialGradient>
+    <symbol id="mozai" viewBox="0 0 900 1200" overflow="visible">
+      <ellipse cx="450" cy="640" rx="220" ry="300" fill="url(#inkHalo)"/>
+      <path d="M450,372 C448,328 454,298 474,286 C498,272 506,302 488,312 C476,320 480,300 466,304"
+            fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M486,300 C504,288 518,298 520,312 C506,316 492,312 486,300 Z" fill="#A3C9A8" stroke="#34465E" stroke-width="2"/>
+      <path d="M482,306 C468,294 456,300 454,312 C466,316 478,314 482,306 Z" fill="#A3C9A8" stroke="#34465E" stroke-width="2"/>
+      <path d="M450,372 C386,490 322,580 322,700 A128,128 0 1,0 578,700 C578,580 514,490 450,372 Z"
+            fill="#23386B" stroke="#34465E" stroke-width="3.5" stroke-linejoin="round"/>
+      <circle cx="408" cy="600" r="13" fill="#FFFFFF"/>
+      <circle cx="492" cy="600" r="13" fill="#FFFFFF"/>
+      <circle cx="450" cy="680" r="12" fill="#E07B39"/>
+      <path d="M420,824 L416,872" fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M480,824 L484,872" fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M416,872 q-8,4 -14,-2" fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M484,872 q8,4 14,-2" fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+    </symbol>
+  </defs>
+
+  <rect width="1080" height="1920" fill="#FBFAF5"/>
+  <rect width="1080" height="1920" fill="#FBFAF5" filter="url(#paperGrain)"/>
+
+  <g stroke="#D8D6CE" stroke-width="1.2" opacity="0.6">
+    <line x1="80" y1="80" x2="80" y2="160"/><line x1="80" y1="80" x2="160" y2="80"/>
+    <circle cx="80" cy="80" r="3" fill="#C9C7BE" stroke="none"/>
+    <line x1="900" y1="80" x2="1000" y2="80"/>
+    <line x1="900" y1="74" x2="900" y2="86"/><line x1="940" y1="74" x2="940" y2="86"/><line x1="980" y1="74" x2="980" y2="86"/>
+    <line x1="80" y1="1840" x2="80" y2="1760"/><line x1="80" y1="1840" x2="160" y2="1840"/>
+    <circle cx="80" cy="1840" r="3" fill="#C9C7BE" stroke="none"/>
+    <line x1="1000" y1="1840" x2="1000" y2="1760"/><line x1="1000" y1="1840" x2="920" y2="1840"/>
+    <circle cx="1000" cy="1840" r="3" fill="#C9C7BE" stroke="none"/>
+  </g>
+
+  <text x="120" y="118" font-family="'STKaiti','Kaiti SC','KaiTi','Microsoft YaHei',serif" font-size="26" fill="#7C8794" letter-spacing="2">3 / 7</text>
+
+  <text x="540" y="280" font-family="'STKaiti','Kaiti SC','KaiTi','Microsoft YaHei',serif" font-size="68" font-weight="600" fill="#34465E" text-anchor="middle" letter-spacing="3">直接补胶原，不靠谱</text>
+  <line x1="300" y1="310" x2="780" y2="310" stroke="#9DB8E0" stroke-width="4" stroke-linecap="round"/>
+  <text x="540" y="370" font-family="'STKaiti','Kaiti SC','KaiTi','Microsoft YaHei',serif" font-size="32" fill="#7C8794" text-anchor="middle" letter-spacing="2">大分子进肚变氨基酸</text>
+
+  <!-- 左：猪蹄 + 大 X -->
+  <g transform="translate(220,820)">
+    <!-- 猪蹄 -->
+    <path d="M0,0 C-30,-20 -50,-60 -20,-100 C20,-140 80,-130 100,-90 C120,-50 90,10 60,20 C40,28 10,18 0,0 Z"
+          fill="#FBFAF5" stroke="#34465E" stroke-width="4" stroke-linejoin="round"/>
+    <!-- 蹄子分三瓣 -->
+    <path d="M30,20 L26,60 M50,28 L52,68 M70,28 L78,60" fill="none" stroke="#34465E" stroke-width="4" stroke-linecap="round"/>
+    <text x="50" y="160" font-family="'STKaiti','Kaiti SC','KaiTi','Microsoft YaHei',serif" font-size="40" fill="#34465E" text-anchor="middle" font-weight="600">猪蹄</text>
+  </g>
+  <g stroke="#E07B39" stroke-width="14" stroke-linecap="round">
+    <line x1="160" y1="900" x2="320" y2="1060"/>
+    <line x1="320" y1="900" x2="160" y2="1060"/>
+  </g>
+
+  <!-- 右：面膜 + 大 X -->
+  <g transform="translate(880,820)">
+    <!-- 面膜 -->
+    <ellipse cx="0" cy="0" rx="100" ry="120" fill="#FBFAF5" stroke="#34465E" stroke-width="4"/>
+    <ellipse cx="-30" cy="-15" rx="14" ry="10" fill="#FBFAF5" stroke="#34465E" stroke-width="3"/>
+    <ellipse cx="30" cy="-15" rx="14" ry="10" fill="#FBFAF5" stroke="#34465E" stroke-width="3"/>
+    <path d="M-15,40 Q0,55 15,40" fill="none" stroke="#34465E" stroke-width="3" stroke-linecap="round"/>
+    <text x="0" y="160" font-family="'STKaiti','Kaiti SC','KaiTi','Microsoft YaHei',serif" font-size="40" fill="#34465E" text-anchor="middle" font-weight="600">面膜</text>
+  </g>
+  <g stroke="#E07B39" stroke-width="14" stroke-linecap="round">
+    <line x1="760" y1="900" x2="920" y2="1060"/>
+    <line x1="920" y1="900" x2="760" y2="1060"/>
+  </g>
+
+  <!-- 墨仔居中下方 -->
+  <g transform="translate(420,1140) scale(0.34)">
+    <use href="#mozai"/>
+  </g>
+  <text x="540" y="1080" font-family="'STKaiti','Kaiti SC','KaiTi','Microsoft YaHei',serif" font-size="30" fill="#7C8794" text-anchor="middle" letter-spacing="2">—— 都被否了 ——</text>
+
+  <!-- 下方机制：箭头 + 氨基酸 + 补不到脸上 -->
+  <g stroke="#34465E" stroke-width="4" fill="none" stroke-linecap="round">
+    <!-- 箭头主体 -->
+    <line x1="240" y1="1480" x2="600" y2="1480"/>
+    <!-- 箭头头 -->
+    <path d="M560,1450 L600,1480 L560,1510"/>
+  </g>
+  <!-- 氨基酸三个小圆 -->
+  <g stroke="#34465E" stroke-width="3" fill="#A3C9A8">
+    <circle cx="340" cy="1480" r="22"/>
+    <circle cx="430" cy="1480" r="22"/>
+    <circle cx="520" cy="1480" r="22"/>
+  </g>
+  <text x="430" y="1560" font-family="'STKaiti','Kaiti SC','KaiTi','Microsoft YaHei',serif" font-size="30" fill="#34465E" text-anchor="middle" font-weight="600">氨基酸</text>
+
+  <!-- 右：补不到脸上 -->
+  <g transform="translate(820,1480)">
+    <ellipse cx="0" cy="0" rx="80" ry="100" fill="#FBFAF5" stroke="#34465E" stroke-width="4"/>
+    <path d="M-50,-30 q10,-12 0,-25" fill="none" stroke="#34465E" stroke-width="2" stroke-linecap="round"/>
+    <path d="M50,-30 q-10,-12 0,-25" fill="none" stroke="#34465E" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-30,30 q30,18 60,0" fill="none" stroke="#34465E" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="820" y="1620" font-family="'STKaiti','Kaiti SC','KaiTi','Microsoft YaHei',serif" font-size="30" fill="#E07B39" text-anchor="middle" font-weight="600">✗ 补不到脸上</text>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <defs>
+    <filter id="paperGrain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.04"/></feComponentTransfer>
+      <feComposite operator="over" in2="SourceGraphic"/>
+    </filter>
+    <radialGradient id="inkHalo" cx="50%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#23386B" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#23386B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 暖白纸背景 -->
+  <rect width="900" height="1200" fill="#FBFAF5"/>
+  <rect width="900" height="1200" fill="#FBFAF5" filter="url(#paperGrain)"/>
+
+  <!-- 角落构造记号：淡灰网格点 -->
+  <g stroke="#D8D6CE" stroke-width="1" opacity="0.55">
+    <line x1="60" y1="60" x2="60" y2="120"/>
+    <line x1="60" y1="60" x2="120" y2="60"/>
+    <circle cx="60" cy="60" r="2.5" fill="#C9C7BE" stroke="none"/>
+    <line x1="840" y1="60" x2="840" y2="120"/>
+    <line x1="840" y1="60" x2="780" y2="60"/>
+    <circle cx="840" cy="60" r="2.5" fill="#C9C7BE" stroke="none"/>
+    <line x1="60" y1="1140" x2="60" y2="1080"/>
+    <line x1="60" y1="1140" x2="120" y2="1140"/>
+    <circle cx="60" cy="1140" r="2.5" fill="#C9C7BE" stroke="none"/>
+  </g>
+  <!-- 右上角淡灰标尺刻度 -->
+  <g stroke="#D8D6CE" stroke-width="1" opacity="0.5">
+    <line x1="700" y1="60" x2="840" y2="60"/>
+    <line x1="700" y1="57" x2="700" y2="63"/>
+    <line x1="740" y1="57" x2="740" y2="63"/>
+    <line x1="780" y1="57" x2="780" y2="63"/>
+    <line x1="820" y1="57" x2="820" y2="63"/>
+  </g>
+
+  <!-- 标题 -->
+  <text x="450" y="115" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="40" font-weight="600" fill="#34465E" text-anchor="middle" letter-spacing="2">墨仔 · Mozai</text>
+  <line x1="360" y1="135" x2="540" y2="135" stroke="#9DB8E0" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- 墨仔墨晕 -->
+  <ellipse cx="450" cy="620" rx="250" ry="320" fill="url(#inkHalo)"/>
+
+  <!-- 顶部卷须 + 绿芽 -->
+  <path d="M450,372 C448,330 452,300 470,288 C492,274 500,300 486,310 C476,317 478,302 468,306"
+        fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M484,300 C500,290 512,296 516,308 C506,312 494,310 484,300 Z" fill="#A3C9A8" stroke="#34465E" stroke-width="2"/>
+  <path d="M482,306 C470,296 460,300 458,310 C468,314 478,312 482,306 Z" fill="#A3C9A8" stroke="#34465E" stroke-width="2"/>
+
+  <!-- 墨仔身体：软墨泪滴（上尖下圆） -->
+  <path d="M450,372
+           C386,490 322,580 322,700
+           A128,128 0 1,0 578,700
+           C578,580 514,490 450,372 Z"
+        fill="#23386B" stroke="#34465E" stroke-width="3.5" stroke-linejoin="round"/>
+
+  <!-- 白点眼（deadpan） -->
+  <circle cx="408" cy="600" r="13" fill="#FFFFFF"/>
+  <circle cx="492" cy="600" r="13" fill="#FFFFFF"/>
+
+  <!-- 红橙墨芯 -->
+  <circle cx="450" cy="680" r="12" fill="#E07B39"/>
+
+  <!-- 细墨线：身体中线高光感（淡） -->
+  <path d="M450,470 C448,560 448,640 450,720" fill="none" stroke="#34465E" stroke-width="1.5" opacity="0.5" stroke-linecap="round"/>
+
+  <!-- 两条细腿 -->
+  <path d="M420,824 L416,872" fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M480,824 L484,872" fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M416,872 q-8,4 -14,-2" fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M484,872 q8,4 14,-2" fill="none" stroke="#34465E" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- 配色标注面板 -->
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#34465E">
+    <rect x="600" y="900" width="250" height="190" rx="10" fill="#FFFFFF" stroke="#D8D6CE" stroke-width="1.5" opacity="0.9"/>
+    <text x="620" y="932" font-size="18" font-weight="600" fill="#34465E">配色锁</text>
+    <circle cx="624" cy="962" r="9" fill="#23386B"/>
+    <text x="642" y="967">#23386B 墨身体</text>
+    <circle cx="624" cy="992" r="9" fill="#34465E"/>
+    <text x="642" y="997">#34465E 墨线</text>
+    <circle cx="624" cy="1022" r="9" fill="#A3C9A8"/>
+    <text x="642" y="1027">#A3C9A8 绿芽</text>
+    <circle cx="624" cy="1052" r="9" fill="#E07B39"/>
+    <text x="642" y="1057">#E07B39 墨芯</text>
+    <circle cx="624" cy="1082" r="9" fill="#FBFAF5" stroke="#D8D6CE" stroke-width="1.5"/>
+    <text x="642" y="1087">#FBFAF5 纸</text>
+  </g>
+
+  <!-- 页脚手写感小字 -->
+  <text x="450" y="1150" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="15" fill="#7C8794" text-anchor="middle" opacity="0.8">SVG 矢量 · 本地无头 Chrome 渲染 · 无水印</text>
+</svg>
