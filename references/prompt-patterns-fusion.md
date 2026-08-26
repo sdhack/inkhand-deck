@@ -1,5 +1,7 @@
 # Prompt Patterns · Fused (Handdrawn Shell + 墨仔)
 
+> 版本 1.0.0 · 2026-08-27
+
 Use these templates for every page. Paste the merged style lock and the 墨仔 spec block verbatim.
 
 ## 1. Merged Style Lock (paste once per prompt)
