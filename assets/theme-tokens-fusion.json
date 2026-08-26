@@ -1,0 +1,46 @@
+{
+  "skill": "inkhand-deck",
+  "version": "0.1.0",
+  "paper": {
+    "tone": "#FBFAF5",
+    "grain": "extremely subtle",
+    "border": "none"
+  },
+  "ink": {
+    "line": "near black, fine handdrawn",
+    "weight": "1-1.5px equivalent",
+    "hatching": "delicate, stable but slightly irregular"
+  },
+  "pastels": {
+    "pale_blue": "#A9C7E8",
+    "sage_green": "#B7CDB0",
+    "peach": "#F2C9B0",
+    "lavender": "#CDBFE0"
+  },
+  "title": {
+    "position": "centered",
+    "size": "medium restrained (body) / medium-large elegant (cover)",
+    "underline": "one short pale blue handdrawn underline"
+  },
+  "page_number": {
+    "format": "NN / TT",
+    "position": "upper-left",
+    "style": "small handwritten"
+  },
+  "corner_marks": {
+    "kind": "faint grey grid / dots / ruler ticks",
+    "density": "sparse, quiet"
+  },
+  "mozai": {
+    "body_color": "matte ink-black with faint paper grain",
+    "sprout_color": "#B7CDB0",
+    "core_dot_color": "#E8744F",
+    "signature": "sage-green sprout on top of body",
+    "eyes": "two small white-dot eyes",
+    "expression": "deadpan, calm, serious",
+    "scale_active": "12-22% of page height",
+    "scale_corner": "≤10% of page height",
+    "max_per_page": 1
+  },
+  "watermark_note": "Image generation model stamps 'AI生成 / WORKBUDBY' in lower-right; cannot be removed via prompt; crop in post when needed."
+}

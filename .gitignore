@@ -1,0 +1,7 @@
+# build / temp artifacts
+*.tmp
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+/tmp/
