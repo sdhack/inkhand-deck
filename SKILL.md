@@ -1,5 +1,6 @@
 ---
 name: inkhand-deck
+version: 1.0.0
 description: Create refined Chinese handdrawn technical article/PPT-style page images featuring the recurring original IP 墨仔 (Mozai), a small soft-ink teardrop creature that acts as the absurd worker in each diagram. Fuses ian-handdrawn-ppt's refined commercial handdrawn shell with an original recurring actor IP. Use when the user wants handdrawn article/slides/courseware/课件/演示稿/配图 that needs a consistent mascot character performing the core conceptual action in each page, or wants the 墨仔 IP, or wants a handdrawn deck with a recurring ink-drop character. Default outputs are 21:9 covers and 16:9 body illustrations with 墨仔 embedded as the actor.
 ---
 
@@ -28,6 +29,7 @@ Load only the references you need:
 
 - `references/visual-dna-fusion.md` — merged style lock: handdrawn shell + 墨仔 placement rules.
 - `references/mozai-character.md` — 墨仔 detailed spec for prompts (look, variants, scale, action library).
+- `references/mozai-prompt.md` — copy-paste prompt cheatsheet (full / short / global-lock blocks).
 - `references/slide-archetypes.md` — semantic mapping with 墨仔 actor role per archetype.
 - `references/prompt-patterns-fusion.md` — complete prompt templates with 墨仔 injection.
 - `references/qa-checklist.md` — verification gates before delivery.
