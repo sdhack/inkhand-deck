@@ -1,5 +1,7 @@
 # Slide Archetypes + 墨仔 Actor Roles
 
+> 版本 1.0.0 · 2026-08-27
+
 Reuse the proven semantic archetypes from the handdrawn base, and add a **墨仔 actor role** to each so 墨仔 has a meaningful job on every page.
 
 | Archetype | When to use | 墨仔's actor role (default) |
