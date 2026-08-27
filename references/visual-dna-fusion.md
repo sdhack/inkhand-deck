@@ -1,6 +1,6 @@
 # 融合视觉 DNA · Handdrawn Shell + 墨仔
 
-> 版本 1.0.0 · 2026-08-27
+> 版本 1.1.0 · 2026-08-27（revert 回初版墨黑）
 
 This is the merged style lock for the fused skill. Use it verbatim in every page prompt.
 
@@ -27,7 +27,7 @@ Refined commercial Chinese handdrawn technical illustration with the recurring I
 - Same warm white paper tone and grain.
 - Same no-border shell.
 - Same small page number convention `NN / TT` in the upper-left.
-- Same title treatment: centered medium Chinese title + one short pale blue underline.
+- Same title treatment: centered medium Chinese title + one short ink-black underline.
 - Same subtitle position and scale.
 - Same title optical size across body pages (no enlarging short titles).
 - Same diagram line weight and hatching style.
@@ -71,9 +71,9 @@ Vary layouts by semantic archetype and 墨仔's role — not by changing shell.
 ## Color
 
 - Paper: near `#FBFAF5`.
-- Lines: **deep blue-grey** (#34465E-ish), fine handdrawn. **Never pure black** — the whole deck is black-free.
+- Lines: **ink-black** (#1A1A1A-ish), fine handdrawn with slightly uneven ink texture. The whole deck reads as soft ink on warm paper, not flat black.
 - Pastel labels: pale blue, sage green, peach, lavender.
-- 墨仔 body: matte **deep ink-blue** (#23386B-ish, never pure black, never hard silhouette) with faint paper grain.
+- 墨仔 body: matte **ink-black** (#1A1A1A-ish, not pure #000000, never hard silhouette) with faint paper grain.
 - 墨仔 sprout: sage-green (signature).
 - 墨仔 core dot: one tiny warm red-orange dot (signature).
 - Avoid large saturated blocks, shadows, gradients, neon, product-card styling.
