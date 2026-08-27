@@ -1,6 +1,6 @@
 # inkhand-deck
 
-> 当前版本：**1.1.0**（2026-08-27）· MIT · [sdhack/inkhand-deck](https://github.com/sdhack/inkhand-deck)
+> 当前版本：**1.1.1**（2026-08-27）· MIT · [sdhack/inkhand-deck](https://github.com/sdhack/inkhand-deck)
 
 墨黑手绘风（初版）· 中文技术图文 / 长文配图技能（WorkBuddy Agent Skill）。
 
@@ -40,6 +40,7 @@ inkhand-deck/
 ├── CHANGELOG.md                   # 版本变更记录
 └── assets/
     ├── mozai-character-sheet.png  # 墨仔角色参考图（本地 SVG 无水印版）
+    ├── mozai-mother-version.png    # 墨黑初版视觉金标准（母版 demo 页，对照用）
     └── theme-tokens-fusion.json   # 主题色 token
 ```
 

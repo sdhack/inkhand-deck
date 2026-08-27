@@ -1,5 +1,13 @@
 # Changelog · inkhand-deck
 
+## v1.1.1 (2026-08-27)
+
+同步**墨黑初版视觉金标准母版**（并入 `assets/mozai-mother-version.png`）。
+
+- 新增 `assets/mozai-mother-version.png`：墨黑初版原始母版 demo 页（含 2 墨仔的搬运示意），作为墨仔墨黑初版的"视觉金标准"对照图。
+- `SKILL.md` / `README.md` / `references/mozai-character.md` / `references/mozai-prompt.md` 增加母版引用与"云端生图建议以母版为 image-to-image reference 锁定墨黑初版形象"说明。
+- 版本号 1.1.0 → 1.1.1。
+
 ## v1.1.0 (2026-08-27)
 
 恢复墨仔**初版墨黑设计**（revert v1.0.0 的墨蓝去黑）。

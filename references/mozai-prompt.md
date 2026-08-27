@@ -1,6 +1,6 @@
 # 墨仔 (Mozai) · 生图提示词速查
 
-> 版本 1.1.0 · 2026-08-27（revert 回初版墨黑）
+> 版本 1.1.1 · 2026-08-27（revert 回初版墨黑；新增母版视觉金标准）
 > 开箱即用：直接复制下方任一块到任意生图工具即可锁定墨仔。权威角色规范见 `mozai-character.md`。
 
 ---
@@ -64,3 +64,5 @@ Refined commercial Chinese handdrawn technical article illustration. Very light 
 
 墨仔是 `<symbol id="mozai">`，源见各 deck 的 `<defs>`（如项目 `胶原蛋白肽科普-墨蓝SVG-deck/01-封面.svg`），7 页全 `<use>` 复用 —— 改一处全联动。
 角色参考图：`assets/mozai-character-sheet.png`（本地 SVG 无水印版）。渲染法见项目日志（Chrome 无头 `--screenshot` SVG）。
+
+> **云端生图严格锁定墨黑初版**：若用云端 ImageGen 出墨仔，建议用 image-to-image 模式以 `assets/mozai-mother-version.png`（墨黑初版母版）为 reference image，比纯文字 prompt 更稳地锁死墨黑 `#1A1A1A` 非死黑、绿芽 `#A3C9A8`、墨芯 `#E07B39`、暖白纸 `#FBFAF5` 的原始形象。

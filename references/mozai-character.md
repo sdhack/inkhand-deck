@@ -1,8 +1,10 @@
 # 墨仔 (Mozai) · 角色规范
 
-> 版本 1.1.0 · 2026-08-27（revert 回初版墨黑；v1.0.0 曾改墨蓝，现恢复原始墨黑设计）
+> 版本 1.1.1 · 2026-08-27（revert 回初版墨黑；新增母版视觉金标准）
 
 Paste this spec block verbatim into every page prompt that includes 墨仔.
+
+> **视觉金标准**：墨黑初版形象以 `assets/mozai-mother-version.png`（原始母版 demo 页）为准。云端生图如需严格锁定墨黑初版形象，请用 ImageGen 的 image-to-image 模式以该图为 reference image（input_fidelity=medium），保证泪滴/绿芽/白点眼/墨芯/腿与母版一致。
 
 ## Identity
 
