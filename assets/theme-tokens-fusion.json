@@ -1,13 +1,13 @@
 {
   "skill": "inkhand-deck",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "paper": {
     "tone": "#FBFAF5",
     "grain": "extremely subtle",
     "border": "none"
   },
   "ink": {
-    "line": "near black, fine handdrawn",
+    "line": "ink-black #1A1A1A, fine handdrawn with slightly uneven ink texture",
     "weight": "1-1.5px equivalent",
     "hatching": "delicate, stable but slightly irregular"
   },
@@ -20,7 +20,7 @@
   "title": {
     "position": "centered",
     "size": "medium restrained (body) / medium-large elegant (cover)",
-    "underline": "one short pale blue handdrawn underline"
+    "underline": "one short ink-black handdrawn underline"
   },
   "page_number": {
     "format": "NN / TT",
@@ -32,15 +32,17 @@
     "density": "sparse, quiet"
   },
   "mozai": {
-    "body_color": "matte ink-black with faint paper grain",
-    "sprout_color": "#B7CDB0",
-    "core_dot_color": "#E8744F",
+    "body_color": "matte ink-black #1A1A1A with faint paper grain (not pure #000000)",
+    "line_color": "ink-black #1A1A1A",
+    "sprout_color": "#A3C9A8",
+    "core_dot_color": "#E07B39",
     "signature": "sage-green sprout on top of body",
     "eyes": "two small white-dot eyes",
     "expression": "deadpan, calm, serious",
     "scale_active": "12-22% of page height",
-    "scale_corner": "≤10% of page height",
-    "max_per_page": 1
+    "scale_corner": "≤8% of page height",
+    "max_per_page": 1,
+    "hard_rule": "body and linework are ink-black #1A1A1A; do NOT use pure #000000; never tint blue"
   },
-  "watermark_note": "Image generation model stamps 'AI生成 / WORKBUDBY' in lower-right; cannot be removed via prompt; crop in post when needed."
+  "watermark_note": "Image generation model stamps 'AI生成 / WORKBUDDY' in lower-right; cannot be removed via prompt; crop in post when needed."
 }
