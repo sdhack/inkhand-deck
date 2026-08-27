@@ -1,6 +1,6 @@
 # QA Checklist · Fused Skill
 
-> 版本 1.0.0 · 2026-08-27
+> 版本 1.1.0 · 2026-08-27（revert 回初版墨黑）
 
 Run before delivery. Mark each item.
 
@@ -9,7 +9,7 @@ Run before delivery. Mark each item.
 - [ ] Every page uses near-white warm paper `#FBFAF5` with subtle grain.
 - [ ] No page has a full-page border.
 - [ ] Every body page has a page number `NN / TT` in the upper-left (cover optional).
-- [ ] Every body page title is centered, with one pale blue underline.
+- [ ] Every body page title is centered, with one ink-black underline.
 - [ ] Every page title optical size matches across body pages (short titles not enlarged).
 - [ ] Corner construction marks present but very faint on every page.
 - [ ] Large negative space preserved on every page.
@@ -21,7 +21,7 @@ Run before delivery. Mark each item.
 - [ ] 墨仔 is **not** present as a corner decoration on busy pages (it's the actor).
 - [ ] At most **one** 墨仔 per page.
 - [ ] 墨仔 scale is 12–22% page height when active, ≤10% on takeaway/signature pages.
-- [ ] 墨仔 body is soft matte deep ink-blue (#23386B, never pure black) with faint paper grain (not a hard silhouette).
+- [ ] 墨仔 body is soft matte ink-black (#1A1A1A, not pure #000000) with faint paper grain (not a hard silhouette).
 - [ ] 墨仔's sage-green sprout is visible in every appearance.
 - [ ] 墨仔's white-dot eyes and deadpan face are present.
 - [ ] 墨仔's tiny warm red-orange core dot is present.
