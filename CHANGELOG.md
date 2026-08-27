@@ -1,1 +1,51 @@
-IyBDaGFuZ2Vsb2cgwrcgaW5raGFuZC1kZWNrCgojIyB2MS4xLjIgKDIwMjYtMDgtMjcpCgrkurrnianljaHljYfnuqfkuLrjgIzogqLkvZPlrozmlbTCt+ihqOaDheWujOaVtOOAjeeJiOacrOOAggoKLSDmm7/mjaIgYGFzc2V0cy9tb3phaS1jaGFyYWN0ZXItc2hlZXQucG5nYO+8muaWsOS6uueJqeWNoeeUseavjeeJiCBpbWFnZS10by1pbWFnZSDnlJ/miJDvvIzloqjku5Tku47nu7/oir3liLDkuKTmnaHnu4bohb/lhajlj6/op4HjgIHml6Doo4HliIfvvIzkuKTnmb3ngrnnnLzmrbvmnb/ooajmg4XmuIXmmbDvvIzlm5vogqLlrozmlbTjgIIKLSDlkIzmraXmlrDlop4gYOWiqOS7lC3kupHnq6/lm74vR2VuZXJhdGVfYV9jbGVhbl9jaGFyYWN0ZXJfZXhwXzIwMjYtMDgtMjdUMTItNDYtNTEucG5nYO+8mjgg5qC8IGRlYWRwYW4g6KGo5oOF5Y2h77yI5bmz6Z2ZL+WbsOaDkS/kuJPms6gv5oOKL+e0ry/lgrIv55aRL+W+ruWWnO+8ie+8jOWxleekuuWiqOS7lOaDhee7quiMg+WbtOOAggotIGBTS0lMTC5tZGAgLyBgUkVBRE1FLm1kYCAvIGByZWZlcmVuY2VzL21vemFpLWNoYXJhY3Rlci5tZGAgLyBgcmVmZXJlbmNlcy9tb3phaS1wcm9tcHQubWRgIOaWh+aho+aPj+i/sOWQjOatpeS4uuOAjOiCouS9k+WujOaVtMK36KGo5oOF5a6M5pW05Lq654mp5Y2h44CN44CCCi0g54mI5pys5Y+3IDEuMS4xIOKGkiAxLjEuMuOAggoKIyMgdjEuMS4xICgyMDI2LTA4LTI3KQoK5ZCM5q2lKirloqjpu5HliJ3niYjop4bop4nph5HmoIflh4bmr43niYgqKu+8iOW5tuWFpSBgYXNzZXRzL21vemFpLW1vdGhlci12ZXJzaW9uLnBuZ2DvvInjgIIKCi0g5paw5aKeIGBhc3NldHMvbW96YWktbW90aGVyLXZlcnNpb24ucG5nYO+8muWiqOm7keWIneeJiOWOn+Wni+avjeeJiCBkZW1vIOmhte+8iOWQqyAyIOWiqOS7lOeahOaQrOi/kOekuuaEj++8ie+8jOS9nOS4uuWiqOS7lOWiqOm7keWIneeJiOeahCLop4bop4nph5HmoIflh4Yi5a+554Wn5Zu+44CCCi0gYFNLSUxMLm1kYCAvIGBSRUFETUUubWRgIC8gYHJlZmVyZW5jZXMvbW96YWktY2hhcmFjdGVyLm1kYCAvIGByZWZlcmVuY2VzL21vemFpLXByb21wdC5tZGAg5aKe5Yqg5q+N54mI5byV55So5LiOIuS6keerr+eUn+WbvuW7uuiuruS7peavjeeJiOS4uiBpbWFnZS10by1pbWFnZSByZWZlcmVuY2Ug6ZSB5a6a5aKo6buR5Yid54mI5b2i6LGhIuivtOaYjuOAggotIOeJiOacrOWPtyAxLjEuMCDihpIgMS4xLjHjgIIKCiMjIHYxLjEuMCAoMjAyNi0wOC0yNykKCuaBouWkjeWiqOS7lCoq5Yid54mI5aKo6buR6K6+6K6hKirvvIhyZXZlcnQgdjEuMC4wIOeahOWiqOiTneWOu+m7ke+8ieOAggoKLSAqKuWiqOm7kemjjuagvOmUge+8iOWIneeJiO+8iSoq77ya5pqW55m957q4IGAjRkJGQUY1YCArIOWiqOm7kee6vy/ouqvkvZMgYCMxQTFBMUFg77yI6Z2e5q276buRIGAjMDAwMDAwYO+8jOW4pui9u+W+ruS4jeWdh+WMgOWiqOi0qO+8iSsgcGFzdGVsIOagh+etvuOAggotIOWFqOmDqCByZWZlcmVuY2Vz77yIbW96YWktY2hhcmFjdGVyIC8gbW96YWktcHJvbXB0IC8gdmlzdWFsLWRuYS1mdXNpb24gLyBwcm9tcHQtcGF0dGVybnMtZnVzaW9uIC8gcWEtY2hlY2tsaXN077yJKyBTS0lMTC5tZCArIFJFQURNRSDphY3oibLmj4/ov7AgcmV2ZXJ0IOWbnuWiqOm7keOAggotIEhBUkQgUlVMRSDnlLHjgIznu53kuI3nlKjnuq/pu5HjgI3mlLnkuLrjgIznlKjloqjpu5EgIzFBMUExQe+8jOmdnuatu+m7kSAjMDAwMDAw77yM57ud5LiN5YGP6JOd44CN44CCCi0g6KeS6Imy5Y+C6ICD5Zu+6YeN5Ye65aKo6buR54mI77yI5pu/5o2iIGFzc2V0cy9tb3phaS1jaGFyYWN0ZXItc2hlZXQucG5n77yJ44CCCi0g57u/6Iq9IGAjQTNDOUE4YCAvIOe6ouapmeWiqOiKryBgI0UwN0IzOWAgLyDnmb3ngrnnnLwgLyDmmpbnmb3nurgg562J562+5ZCN5Lu25L+d55WZ5LiN5Y+Y44CCCgojIyB2MS4wLjAgKDIwMjYtMDgtMjcpCgrpppbkuKrlhazlvIDlj5HluIPniYjmnKzjgIIKCi0gKirono3lkIjmnaXmupAqKu+8mmBpYW4taGFuZGRyYXduLXBwdGAgVjYg5omL57uY5aSW5aOzICsg5Y6f5YibIElQIOWiqOS7lO+8iOeBteaEn+adpeiHqiBgaWFuLXhpYW9oZWktaWxsdXN0cmF0aW9uc2DvvInjgIIKLSAqKuWiqOiTneWOu+m7kemjjuagvOmUgSoq77ya5pqW55m957q4IGAjRkJGQUY1YCArIOa3seiTneeBsOe6vyBgIzM0NDY1RWAgKyDloqjok53ouqvkvZMgYCMyMzM4NkJgICsgcGFzdGVsIOagh+etvu+8jOe7neS4jeeUqOe6r+m7keOAggotICoqNyDnsbvpobXpnaLljp/lnosqKu+8muWwgemdoiAvIOW3puWPs+WvueavlCAvIOS4u+makOWWuyAvIOacuuWItueOryAvIOefqemYteihqCAvIOitpuekuiAvIOiQveeCue+8jOavj+mhteaYoOWwhOWiqOS7lOa8lOWRmOinkuiJsu+8iOaQrOi/kCAvIOa8j+aWlyAvIOaLiee6vyAvIOitpuekuiAvIOiusOW9lSAvIOaOouWktO+8ieOAggotICoq5Lik56eN55Sf5Lqn5qih5byPKirvvJoKICAtIOKYge+4jyDkupHnq6/nlJ/lm77vvIhJbWFnZUdlbiAvIG5hbm9iYW5hbmEgcHJvIC8gR2VtaW5p77yJ77ya55SoIGBtb3phaS1jaGFyYWN0ZXIubWRgIOaIliBgbW96YWktcHJvbXB0Lm1kYCDnmoQgcHJvbXB0IGJsb2Nr44CCCiAgLSDwn5al77iPIOacrOWcsCBTVkcg55+i6YeP77yI5peg5rC05Y2w44CB5LiN6IqxIGNyZWRpdHPvvInvvJrloqjku5QgYDxzeW1ib2w+YCArIOaXoOWktCBDaHJvbWUg5riy5p+T44CCCi0gKirmlofmoaPotYTkuqcqKu+8mgogIC0gYFNLSUxMLm1kYCDigJQg5oqA6IO95YWl5Y+j44CB6Kem5Y+R6K+N44CB5bel5L2c5rWB44CBR3VhcmRyYWlsc+OAggogIC0gYHJlZmVyZW5jZXMvbW96YWktY2hhcmFjdGVyLm1kYCDigJQg5aKo5LuU6KeS6Imy6KeE6IyDICsg55Sf5Zu+IHByb21wdCBibG9ja++8iOadg+Wogea6kO+8ieOAggogIC0gYHJlZmVyZW5jZXMvbW96YWktcHJvbXB0Lm1kYCDigJQg5byA566x5Y2z55So5o+Q56S66K+N6YCf5p+l77yI5a6M5pW054mIIC8g57K+566A54mIIC8g5YWo5bGA6ZSBIC8g6YG/5Z2R77yJ44CCCiAgLSBgcmVmZXJlbmNlcy92aXN1YWwtZG5hLWZ1c2lvbi5tZGAg4oCUIOWiqOiTneaJi+e7mOmjjiBETkEg6ZSB44CCCiAgLSBgcmVmZXJlbmNlcy9zbGlkZS1hcmNoZXR5cGVzLm1kYCDigJQg6aG16Z2i5Y6f5Z6LICsg5aKo5LuU5ryU5ZGY6KeS6Imy6KGo44CCCiAgLSBgcmVmZXJlbmNlcy9wcm9tcHQtcGF0dGVybnMtZnVzaW9uLm1kYCDigJQg55Sf5Zu+IHByb21wdCDmqKHmnb8gKyBJbWFnZUdlbiDlubblj5Hmkp7lkI3kv67lpI3nu4/pqozjgIIKICAtIGByZWZlcmVuY2VzL3FhLWNoZWNrbGlzdC5tZGAg4oCUIOWHuuWbvuWJjSBRQSDmuIXljZXjgIIKICAtIGBhc3NldHMvbW96YWktY2hhcmFjdGVyLXNoZWV0LnBuZ2Ag4oCUIOWiqOS7lOinkuiJsuWPguiAg+Wbvu+8iOacrOWcsCBTVkcg5peg5rC05Y2w54mI77yJ44CCCiAgLSBgYXNzZXRzL3RoZW1lLXRva2Vucy1mdXNpb24uanNvbmAg4oCUIOS4u+mimOiJsiB0b2tlbuOAggotICoq5L+u5aSNKirvvJpgcWEtY2hlY2tsaXN0Lm1kYCDkuK3loqjku5TouqvkvZPphY3oibLmj4/ov7DnlLHor6/lhpnnmoQgYGluay1ibGFja2Ag57uf5LiA5Li6IGBkZWVwIGluay1ibHVlICgjMjMzODZCKWDvvIzkuI7lhajlsYDljrvpu5Hpo47moLzplIHkuIDoh7TjgIIKLSAqKuiuuOWPryoq77yaTUlU44CCCg==
+# Changelog · inkhand-deck
+
+## v1.1.2 (2026-08-27)
+
+人物卡升级为「肢体完整·表情完整」版本。
+
+- 替换 `assets/mozai-character-sheet.png`：新人物卡由母版 image-to-image 生成，墨仔从绿芽到两条细腿全可见、无裁切，两白点眼死板表情清晰，四肢完整。
+- 同步新增 `墨仔-云端图/Generate_a_clean_character_exp_2026-08-27T12-46-51.png`：8 格 deadpan 表情卡（平静/困惑/专注/惊/累/傲/疑/微喜），展示墨仔情绪范围。
+- `SKILL.md` / `README.md` / `references/mozai-character.md` / `references/mozai-prompt.md` 文档描述同步为「肢体完整·表情完整人物卡」。
+- 版本号 1.1.1 → 1.1.2。
+
+## v1.1.1 (2026-08-27)
+
+同步**墨黑初版视觉金标准母版**（并入 `assets/mozai-mother-version.png`）。
+
+- 新增 `assets/mozai-mother-version.png`：墨黑初版原始母版 demo 页（含 2 墨仔的搬运示意），作为墨仔墨黑初版的"视觉金标准"对照图。
+- `SKILL.md` / `README.md` / `references/mozai-character.md` / `references/mozai-prompt.md` 增加母版引用与"云端生图建议以母版为 image-to-image reference 锁定墨黑初版形象"说明。
+- 版本号 1.1.0 → 1.1.1。
+
+## v1.1.0 (2026-08-27)
+
+恢复墨仔**初版墨黑设计**（revert v1.0.0 的墨蓝去黑）。
+
+- **墨黑风格锁（初版）**：暖白纸 `#FBFAF5` + 墨黑线/身体 `#1A1A1A`（非死黑 `#000000`，带轻微不均匀墨质）+ pastel 标签。
+- 全部 references（mozai-character / mozai-prompt / visual-dna-fusion / prompt-patterns-fusion / qa-checklist）+ SKILL.md + README 配色描述 revert 回墨黑。
+- HARD RULE 由「绝不用纯黑」改为「用墨黑 #1A1A1A，非死黑 #000000，绝不偏蓝」。
+- 角色参考图重出墨黑版（替换 assets/mozai-character-sheet.png）。
+- 绿芽 `#A3C9A8` / 红橙墨芯 `#E07B39` / 白点眼 / 暖白纸 等签名件保留不变。
+
+## v1.0.0 (2026-08-27)
+
+首个公开发布版本。
+
+- **融合来源**：`ian-handdrawn-ppt` V6 手绘外壳 + 原创 IP 墨仔（灵感来自 `ian-xiaohei-illustrations`）。
+- **墨蓝去黑风格锁**：暖白纸 `#FBFAF5` + 深蓝灰线 `#34465E` + 墨蓝身体 `#23386B` + pastel 标签，绝不用纯黑。
+- **7 类页面原型**：封面 / 左右对比 / 主隐喻 / 机制环 / 矩阵表 / 警示 / 落点，每页映射墨仔演员角色（搬运 / 漏斗 / 拉线 / 警示 / 记录 / 探头）。
+- **两种生产模式**：
+  - ☁️ 云端生图（ImageGen / nanobanana pro / Gemini）：用 `mozai-character.md` 或 `mozai-prompt.md` 的 prompt block。
+  - 🖥️ 本地 SVG 矢量（无水印、不花 credits）：墨仔 `<symbol>` + 无头 Chrome 渲染。
+- **文档资产**：
+  - `SKILL.md` — 技能入口、触发词、工作流、Guardrails。
+  - `references/mozai-character.md` — 墨仔角色规范 + 生图 prompt block（权威源）。
+  - `references/mozai-prompt.md` — 开箱即用提示词速查（完整版 / 精简版 / 全局锁 / 避坑）。
+  - `references/visual-dna-fusion.md` — 墨蓝手绘风 DNA 锁。
+  - `references/slide-archetypes.md` — 页面原型 + 墨仔演员角色表。
+  - `references/prompt-patterns-fusion.md` — 生图 prompt 模板 + ImageGen 并发撞名修复经验。
+  - `references/qa-checklist.md` — 出图前 QA 清单。
+  - `assets/mozai-character-sheet.png` — 墨仔角色参考图（本地 SVG 无水印版）。
+  - `assets/theme-tokens-fusion.json` — 主题色 token。
+- **修复**：`qa-checklist.md` 中墨仔身体配色描述由误写的 `ink-black` 统一为 `deep ink-blue (#23386B)`，与全局去黑风格锁一致。
+- **许可**：MIT。
