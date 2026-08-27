@@ -1,6 +1,6 @@
 # Prompt Patterns · Fused (Handdrawn Shell + 墨仔)
 
-> 版本 1.0.0 · 2026-08-27
+> 版本 1.1.0 · 2026-08-27（revert 回初版墨黑）
 
 Use these templates for every page. Paste the merged style lock and the 墨仔 spec block verbatim.
 
@@ -11,10 +11,10 @@ Refined commercial Chinese handdrawn technical article/PPT illustration.
 Complete raster image on very light warm white paper, near #FBFAF5, with extremely subtle grain.
 No full-page border and no rectangular frame unless explicitly requested.
 Upper-left small page number in handwritten style.
-Centered medium Chinese title with one pale blue handdrawn underline.
+Centered medium Chinese title with one ink-black handdrawn underline.
 Small subtitle under title when needed.
 For body pages, keep title size optically consistent across pages; do not enlarge short titles.
-Fine DEEP BLUE-GREY ink and pencil linework (NOT pure black, soft dark slate-blue around #34465E), delicate hatching, stable but slightly irregular.
+Fine INK-BLACK ink and pencil linework (NOT pure #000000, slightly uneven ink texture, around #1A1A1A), delicate hatching, stable but slightly irregular.
 Muted pastel marker labels: pale blue, sage green, peach, lavender.
 Sparse corner construction marks only: faint pale grey grid, dots, ruler ticks, measurement lines.
 Generous negative space, calm premium teaching-note feeling.
@@ -26,7 +26,7 @@ Avoid full-page border, yellow paper, beige paper, giant fonts, cheap poster loo
 ## 2. 墨仔 Spec Block (paste once per prompt that includes 墨仔)
 
 ```text
-墨仔 (Mozai): a small soft-ink teardrop creature in matte DEEP INK-BLUE (dark navy, around #23386B, never pure black) with faint paper grain and a slight ink halo, one thin curly tendril on top ending in one tiny sage-green sprout (its signature), two small white-dot eyes, blank deadpan serious face, two thin legs, occasionally thin arms for the action. One tiny warm red-orange core dot on the body.
+墨仔 (Mozai): a small soft-ink teardrop creature in matte INK-BLACK (around #1A1A1A, not pure #000000, slightly uneven ink texture) with faint paper grain and a slight ink halo, one thin curly tendril on top ending in one tiny sage-green sprout (its signature), two small white-dot eyes, blank deadpan serious face, two thin legs, occasionally thin arms for the action. One tiny warm red-orange core dot on the body.
 墨仔 must perform the core conceptual action as the actor, not decorate. Calm, slightly absurd,
 refined, not cute, not a mascot. Occupies about 12-22% of page height when active.
 Keep the sage-green sprout visible in every appearance.
@@ -68,7 +68,7 @@ heavy bottom boxes, extra text, invented micro-labels, gibberish, English, water
 crowded composition, many characters, childish cartoons, thick outlines, saturated colors,
 corporate template look, cute mascot, shiny eyes, multiple 墨仔s on one page, two 墨仔s,
 a second 墨仔 silhouette. EXACTLY ONE 墨仔 per page.
-pure black, pure black linework, near-black ink — the entire deck must stay in deep blue-grey + deep ink-blue + pastels only.
+pure #000000 (flat dead black) — the entire deck must stay in ink-black #1A1A1A + pastels only, never tint blue.
 ```
 
 ## 4. Complete Cover Prompt (21:9)
@@ -104,7 +104,7 @@ extra text, invented micro-labels, English, gibberish, watermark.
 Before generating, check:
 
 - Every page shares the same page number position, paper tone, title underline, line weight, pastel family.
-- 墨仔 looks identical across pages (soft deep ink-blue, sprout visible, white-dot eyes, deadpan face, tiny red-orange core dot).
+- 墨仔 looks identical across pages (soft ink-black, sprout visible, white-dot eyes, deadpan face, tiny red-orange core dot).
 - 墨仔's action varies by archetype and main point.
 - 墨仔 scale stays within 12–22% on active pages.
 - Every active page pastes the 墨仔 spec block.
