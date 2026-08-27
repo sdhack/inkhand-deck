@@ -1,5 +1,15 @@
 # Changelog · inkhand-deck
 
+## v1.1.0 (2026-08-27)
+
+恢复墨仔**初版墨黑设计**（revert v1.0.0 的墨蓝去黑）。
+
+- **墨黑风格锁（初版）**：暖白纸 `#FBFAF5` + 墨黑线/身体 `#1A1A1A`（非死黑 `#000000`，带轻微不均匀墨质）+ pastel 标签。
+- 全部 references（mozai-character / mozai-prompt / visual-dna-fusion / prompt-patterns-fusion / qa-checklist）+ SKILL.md + README 配色描述 revert 回墨黑。
+- HARD RULE 由「绝不用纯黑」改为「用墨黑 #1A1A1A，非死黑 #000000，绝不偏蓝」。
+- 角色参考图重出墨黑版（替换 assets/mozai-character-sheet.png）。
+- 绿芽 `#A3C9A8` / 红橙墨芯 `#E07B39` / 白点眼 / 暖白纸 等签名件保留不变。
+
 ## v1.0.0 (2026-08-27)
 
 首个公开发布版本。
