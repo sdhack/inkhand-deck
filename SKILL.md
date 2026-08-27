@@ -1,6 +1,6 @@
 ---
 name: inkhand-deck
-version: 1.0.0
+version: 1.1.0
 description: Create refined Chinese handdrawn technical article/PPT-style page images featuring the recurring original IP 墨仔 (Mozai), a small soft-ink teardrop creature that acts as the absurd worker in each diagram. Fuses ian-handdrawn-ppt's refined commercial handdrawn shell with an original recurring actor IP. Use when the user wants handdrawn article/slides/courseware/课件/演示稿/配图 that needs a consistent mascot character performing the core conceptual action in each page, or wants the 墨仔 IP, or wants a handdrawn deck with a recurring ink-drop character. Default outputs are 21:9 covers and 16:9 body illustrations with 墨仔 embedded as the actor.
 ---
 
@@ -54,7 +54,7 @@ Load only the references you need:
 - Deck length: 8–12 pages for an article, 5–8 for a short idea.
 - Output: PNG page images + contact sheet + short blueprint.
 - Style: refined near-white Chinese handdrawn technical illustration (V6 shell) + 墨仔 actor on every body page.
-- 墨仔 accent colors: matte deep ink-blue body (#23386B-ish, never pure black), sage-green sprout, one warm red-orange core dot. All linework is deep blue-grey (#34465E-ish), never pure black.
+- 墨仔 accent colors: matte ink-black body (#1A1A1A-ish, not pure #000000), sage-green sprout, one warm red-orange core dot. All linework is ink-black (#1A1A1A-ish), slightly uneven ink texture.
 - Cover: 墨仔 may be present but optional; body pages: 墨仔 required as actor.
 
 ## Guardrails (must enforce)
@@ -62,7 +62,7 @@ Load only the references you need:
 - 墨仔 is **the actor**, not a corner decoration.
 - At most **one** 墨仔 per page.
 - 墨仔 occupies **12–22% of page height** when active; never fills the page.
-- 墨仔 body = soft matte **deep ink-blue** (#23386B-ish, never pure black, never hard silhouette) with faint paper grain.
+- 墨仔 body = soft matte **ink-black** (#1A1A1A-ish, not pure #000000, never hard silhouette) with faint paper grain.
 - 墨仔 keeps its **sage-green sprout** signature on every page it appears.
 - Body language: deadpan, calm, slightly absurd; never cute, never shiny-eyed, never wearing clothes.
 - Handdrawn shell constraints (paper tone, no border, page number, title underline, corner marks, pastel labels, large negative space) still apply on every page.
