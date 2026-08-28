@@ -1,5 +1,50 @@
 # Changelog · inkhand-deck
 
+## v2.0.0 (2026-08-28)
+
+墨仔形象**重大升级**（v2.0）：基于多轮用户迭代确认，从 v1.x 的"死鱼脸白点眼+一片绿芽"升级为"圆润穹顶+向上看大眼+差异化嘴巴+螺旋圈双叶+严格四肢"的可爱但优雅形象。同步新增手写字体锁、抖音竖版 3:4 模板、细节手绘风格。
+
+### 墨仔形象升级（核心变更）
+
+- **头顶**：从 v1.x 的泪滴尖顶 → **圆润穹顶（rounded dome top, not pointed）**。用户明确要求"头顶不应该是尖的"。
+- **身体**：从 v1.x 的 rounded teardrop → **修长泪滴形（slim elongated teardrop, not chubby/fat/spherical）**。用户反馈"体型显着很胖"。
+- **眼睛**：从 v1.x 的 "two small white-dot eyes" → **中等大小圆眼（medium-sized round eyes, 50-55% face width）+ 大白眼珠（large white eye whites）+ 黑瞳孔偏上（small black pupils in upper part, looking upward）**。用户迭代确认"大萌眼睛"、"眼睛向上看"。
+- **嘴巴**：从 v1.x 的 "occasionally a thin curved-line mouth" → **每页差异化（differentiated per page based on action/emotion）**。用户明确要求"嘴巴不应该都是一个形状"。新增 6 种嘴型库：好奇 O 形 / 认真一字 / 坚定抿嘴 / 友好微笑 / 思考歪嘴 / 小点嘴。多页 deck 至少使用 3 种。
+- **头顶卷须**：从 v1.x 的 "one thin curly tendril ending in one tiny sage-green sprout" → **细卷须 + 螺旋形圈（spiral-shaped coil loop）+ 两片绿叶（two green leaves）**。用户迭代确认"头顶到叶子之间打个圈"、"两片绿叶"。
+- **四肢**：从 v1.x 的 "two thin legs at rest, arms appear only when action requires" → **严格两手两腿（exactly two arms + exactly two legs, always present）**。用户明确要求"锁定四肢不要多手多脚"。
+- **性格**：从 v1.x 的 "Deadpan, calm, slightly absurd. Never cute." → **可爱但优雅（cute but elegant, expressive, slightly absurd, not a mascot sticker）**。用户迭代中要求"整体还不够可爱"，最终定位为可爱但优雅，不是过度Q版。
+- **墨芯红点**：保留为可选（optional），v2.0 迭代中用户未强调，生成图中不明显。
+
+### 视觉风格升级
+
+- **字体**：新增 **全中文手写字体锁（ALL TEXT IS CHINESE HANDWRITTEN STYLE）**。标题用 bold brush/marker hand-lettering + 波浪下划线；副标题/标签用 casual pencil handwriting。禁止正式印刷字体和英文。用户要求"字体不要这么正式的，要有手绘风格的"。
+- **细节手绘**：新增 cross-hatching / stippling / subtle ink bleed / delicate hatching 等细节手绘风格要求。用户要求"配图采用细节丰富的手绘风格"。
+- **波浪下划线**：标题下划线从 straight 改为 wavy handdrawn underline。
+
+### 新增抖音竖版 3:4 支持
+
+- 新增 **3:4 竖版（1080x1440）** 作为抖音/小红书配图默认尺寸。
+- 竖版加 thin double-line border + decorative corner flourishes。
+- 新增封面钩子要求："封面设计应该有钩子，紧贴新闻热点"。
+- 新增文字信息量要求：竖版增加 key data points / pastel tags / quote boxes / contrast cards。
+- `prompt-patterns-fusion.md` 新增完整的 "Complete Douyin Vertical Prompt (3:4)" 模板。
+
+### 文档同步更新
+
+- `SKILL.md`：版本 1.1.2 → 2.0.0，description/Guardrails/Workflow/Defaults 全面更新为 v2.0。
+- `references/mozai-character.md`：权威角色规范全面重写，新增 Mouth Expression Library、v2.0 HARD RULE、完整 Generation Prompt Block。
+- `references/mozai-prompt.md`：提示词速查全面更新，新增嘴巴差异化速查表、抖音竖版专用锁、v2.0 形象锁/避坑清单。
+- `references/visual-dna-fusion.md`：视觉 DNA 锁更新，新增 Typography (v2.0 handwritten font lock)、Text Budget (v2.0 increased density)、Line and Shape (v2.0 detailed hand-drawn)、抖音竖版尺寸。
+- `references/prompt-patterns-fusion.md`：提示词模板全面更新，新增 3:4 抖音竖版模板、嘴巴形状字段、封面钩子字段、热点关联字段。
+- `references/qa-checklist.md`：QA 清单全面更新，新增 v2.0 墨仔 16 项检查（圆润穹顶/修长身/螺旋圈双叶/中上瞳孔/嘴巴差异化/严格四肢等）、手写字体检查、细节手绘检查、抖音竖版检查。
+
+### 已知待办
+
+- `assets/mozai-character-sheet.png` 仍为 v1.0 版，待更新为 v2.0 人物卡。
+- `assets/mozai-mother-version.png` 仍为 v1.0 墨黑初版母版，v2.0 建议叠加用户确认的 v2.0 参考图做 image-to-image。
+
+---
+
 ## v1.1.2 (2026-08-27)
 
 人物卡升级为「肢体完整·表情完整」版本。
